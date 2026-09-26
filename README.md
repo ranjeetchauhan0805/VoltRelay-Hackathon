@@ -248,13 +248,12 @@ VoltRelay-Hackathon/
 │   └── fleet_partners.csv
 │
 ├── notebooks/
-│   └── VoltRelay_Analysis.ipynb
+│   └── eda.ipynb
 │
 ├── src/
 │
 ├── outputs/
 │   ├── figures/
-│   └── tables/
 │
 ├── report/
 │
